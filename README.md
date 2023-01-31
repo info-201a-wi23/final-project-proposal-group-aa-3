@@ -6,10 +6,10 @@ Please complete your proposal following the outline below.
 
 Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
-### Authors
+### Tyler Pham (tylerpham25@gmail.com), Senudi Siriwardhana(ssiriw@uw.edu), Jasmine Pham(jasmine42582@gmail.com), Tony Ngo(tonyngot@gmail.com)
 
 Names of your team members and contact information (email addresses).
-### Date
+### 1-31-2023
 
 Winter 2023
 ## Abstract
