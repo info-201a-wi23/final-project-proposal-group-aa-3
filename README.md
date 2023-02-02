@@ -29,6 +29,9 @@ Mental Health, Education Systems, Switzerland Students
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
 
+Our project will analyze the levels of mental health of Switzerland students as a result of the Education System. By looking at the data, we can hopefully answer the question of in what ways can we improve education systems to better accommodate the well-being of students? With rates of teen suicides and depression rising, it’s important to make sure that school is a safe place that doesn’t cause negative impacts on the lives of students. We will also be closely analyzing the ages, and grades of the students to better figure out at what ages and grades kids are experiencing the most negative effects to their mental health through school? If we observe anxiety levels beginning to spike at a young age, that’s a sign that there is something wrong within the school system. This will give insight as to whether we should advocate for more counseling, or more supportive assignments to students. Another crucial part of our project will be to analyze how extensively do students experience exhaustion and anxiety levels because of hours of study per week? Dissecting the average hours students in each grade are spending on school assignments will give a good idea on how that influences exhaustion and anxiety levels. We hope that with the dissection of this data, we’ll be able to decrease suicide rates and create a positive impact through schools. 
+
+
 2. Related Work  
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
