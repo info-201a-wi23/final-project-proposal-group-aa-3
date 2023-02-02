@@ -2,14 +2,14 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
+## The School Experience and its Effect on Mental Well-Being
 
 Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
 ### Tyler Pham (tylerpham25@gmail.com), Senudi Siriwardhana(ssiriw@uw.edu), Jasmine Pham(jasmine42582@gmail.com), Tony Ngo(tonyngot@gmail.com)
 
 Names of your team members and contact information (email addresses).
-### 1-31-2023
+### 02-2-2023
 
 Winter 2023
 ## Abstract
