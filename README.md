@@ -54,13 +54,13 @@ Within the school environment exist various factors, such as societal expectatio
 > **Who collected the data?**          
 > The data was collected by Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022).
 >  
-> **How was the data collected or generated?** 
+> **How was the data collected or generated?**     
 > Our data was collected and generated through a study sample of 886 medical students from various academic years. The participants' empathy, encompassing cognitive, emotional, and behavioral aspects, was evaluated through self-assessment surveys and a test designed to measure their ability to recognize emotions.
  
-> **Why was the data collected?**.  
+> **Why was the data collected?**                   
   The data was collected to gain valuable insight into the impact of being a medical student on one's health and overall well-being.
     
->**How many observations (rows) are in your data?**            
+>**How many observations (rows) are in your data?**                 
   There are 1790 observations in our data. 
   
 > **How many features (columns) are in the data?**             
