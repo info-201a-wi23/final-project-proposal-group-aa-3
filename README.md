@@ -16,7 +16,7 @@ Winter 2023
 
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
 
-Our main question is how does the education system affect the mental health of students? To address this question, we will be analyzing data of Switzerland students relating to burnout, empathy, anxiety, and depression levels of students as a result of school. This is important to research because depression, anxiety and suicide rates in teens have been increasing over the years, and we plan to hopefully analyze the data in a way that offers a solution to decrease such rates. 
+Our main question is how does the education system affect the mental health of students? To address this question, we will be analyzing data of Switzerland students relating to burnout, empathy, anxiety, and depression levels of medical students as a result of school. This is important to research because depression, anxiety and suicide rates in teens have been increasing over the years, and we plan to hopefully analyze the data in a way that offers a solution to decrease such rates. 
 
 ## Keywords
 
@@ -31,7 +31,7 @@ Mental Health, Education Systems, Switzerland Students
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
 
-Our project will analyze the levels of mental health of Switzerland students as a result of the Education System. By looking at the data, we can hopefully answer the question of in what ways can we improve education systems to better accommodate the well-being of students? With rates of teen suicides and depression rising, it’s important to make sure that school is a safe place that doesn’t cause negative impacts on the lives of students. We will also be closely analyzing the ages, and grades of the students to better figure out at what ages and grades kids are experiencing the most negative effects to their mental health through school? If we observe anxiety levels beginning to spike at a young age, that’s a sign that there is something wrong within the school system. This will give insight as to whether we should advocate for more counseling, or more supportive assignments to students. Another crucial part of our project will be to analyze how extensively do students experience exhaustion and anxiety levels because of hours of study per week? Dissecting the average hours students in each grade are spending on school assignments will give a good idea on how that influences exhaustion and anxiety levels. We hope that with the dissection of this data, we’ll be able to decrease suicide rates and create a positive impact through schools. 
+Our project will analyze the levels of mental health of medical students in Switzerland as a result of the Education System. By looking at the data, we can hopefully answer the question of in what ways can we improve education systems to better accommodate the well-being of students? With rates of teen suicides and depression rising, it’s important to make sure that school is a safe place that doesn’t cause negative impacts on the lives of students. We will also be closely analyzing the ages, and grades of the students to better figure out at what ages and grades kids are experiencing the most negative effects to their mental health through school? If we observe anxiety levels beginning to spike at a young age, that’s a sign that there is something wrong within the school system. This will give insight as to whether we should advocate for more counseling, or more supportive assignments to students. Another crucial part of our project will be to analyze how extensively do students experience exhaustion and anxiety levels because of hours of study per week? Dissecting the average hours students in each grade are spending on school assignments will give a good idea on how that influences exhaustion and anxiety levels. We hope that with the dissection of this data, we’ll be able to decrease suicide rates and create a positive impact through schools. 
 
 
 2. Related Work  
@@ -74,6 +74,7 @@ Within the school environment exist various factors, such as societal expectatio
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
