@@ -42,9 +42,11 @@ Within the school environment exist various factors, such as societal expectatio
 
 > Where did you find the data? Please include a link to the data source 
 > We found this data via Kaggle.com. 
-> [Link to the site:](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
+> [Link to the site](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
 > 
-> Who collected the data?  
+> Who collected the data? 
+> The data was collected by Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022).
+>  
 > How was the data collected or generated?  
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
