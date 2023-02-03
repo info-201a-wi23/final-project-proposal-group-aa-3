@@ -40,7 +40,7 @@ Within the school environment exist various factors, such as societal expectatio
 
 3. The Dataset
 
-> **Where did you find the data? Please include a link to the data source.      
+> **Where did you find the data? Please include a link to the data source.**      
 > We found this data via Kaggle.com. 
 > [Link to the site](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
 > 
@@ -50,8 +50,11 @@ Within the school environment exist various factors, such as societal expectatio
 >**How was the data collected or generated?**   
   In this study, a sample of 886 medical students from various academic years was analyzed. The participants' empathy, encompassing cognitive, emotional,     and behavioral aspects, was evaluated through self-assessment surveys and a test designed to measure their ability to recognize emotions.
   
->**Why was the data collected?**  
+>**Why was the data collected?**   
+  The data was collected to gain valuable insight into the impact of being a medical student on one's health and overall well-being.  
+  
 >**How many observations (rows) are in your data?**  
+  
 >**How many features (columns) are in the data?**  
 >**What, if any, ethical questions or questions of power do you need to consider when working with this data?**  
 >**What are possible limitations or problems with this data?   (at least 200 words)**
