@@ -38,26 +38,28 @@ Our project will analyze the levels of mental health of Switzerland students as 
 
 Within the school environment exist various factors, such as societal expectations, academic pressure, workload, bullying, harassment, and discrimination, which can seriously deteriorate students' mental health, resulting in depression, anxiety, and a significant decline in self-esteem. Our topic for this research project focuses the impact of school on students' mental health and what we can do to improve school grounds to promote a healthy and positive mental health.
 
+##Adelman, Howard, and Linda Taylor. “Mental Health in Schools and Public Health .” Public Health Report, June 2006, journals.sagepub.com/doi/pdf/10.1177/003335490612100312. 
+
+##Alliance, MindSpring Mental Health. “Learn How School Affects Mental Health in High School Students.” Mindspring, 2 May 2022, www.mindspringhealth.org/resources/news/how-school-affects-mental-health-in-high-school-students#:~:text=Unfortunately%2C%20school%20itself%20can%20sometimes,how%20school%20affects%20mental%20health. 
+
+##Division of Adolescent and School Health, “Mental Health.” Centers for Disease Control and Prevention, 19 Jan. 2023, www.cdc.gov/healthyyouth/mental-health/index.htm. 
+
+
 3. The Dataset
 
-> **Where did you find the data? Please include a link to the data source.**      
+> Where did you find the data? Please include a link to the data source.      
 > We found this data via Kaggle.com. 
 > [Link to the site](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
 > 
-> **Who collected the data?**     
+> Who collected the data?      
 > The data was collected by Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022).
 >  
->**How was the data collected or generated?**   
-  In this study, a sample of 886 medical students from various academic years was analyzed. The participants' empathy, encompassing cognitive, emotional,     and behavioral aspects, was evaluated through self-assessment surveys and a test designed to measure their ability to recognize emotions.
-  
->**Why was the data collected?**   
-  The data was collected to gain valuable insight into the impact of being a medical student on one's health and overall well-being.  
-  
->**How many observations (rows) are in your data?**  
-  
->**How many features (columns) are in the data?**  
->**What, if any, ethical questions or questions of power do you need to consider when working with this data?**  
->**What are possible limitations or problems with this data?   (at least 200 words)**
+> How was the data collected or generated?  
+> Why was the data collected?  
+>How many observations (rows) are in your data?  
+> How many features (columns) are in the data?  
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+> What are possible limitations or problems with this data?   (at least 200 words)
 
 4. Implications
 
