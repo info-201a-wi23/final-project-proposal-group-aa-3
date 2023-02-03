@@ -36,6 +36,7 @@ Our project will analyze the levels of mental health of Switzerland students as 
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
+Within the school environment exist various factors, such as societal expectations, academic pressure, workload, bullying, harassment, and discrimination, which can seriously deteriorate students' mental health, resulting in depression, anxiety, and a significant decline in self-esteem. Our topic for this research project focuses the impact of school on students' mental health and what we can do to improve school grounds to promote a healthy and positive mental health.
 
 3. The Dataset
 
