@@ -36,31 +36,34 @@ Our project will analyze the levels of mental health of Switzerland students as 
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
-Within the school environment exist various factors, such as societal expectations, academic pressure, workload, bullying, harassment, and discrimination, which can seriously deteriorate students' mental health, resulting in depression, anxiety, and a significant decline in self-esteem. Our topic for this research project focuses the impact of school on students' mental health and what we can do to improve school grounds to promote a healthy and positive mental health. This topic is one that has always been given a lot of attention but has never been resolved. Many kids to this day struggle with their mental health and the teen suicide rate is only rising. CDC has data proving that “more than 1 in 3 high school students had experienced persistent feelings of sadness or hopelessness in 2019, a 40 percent increase since 2009”. It’s important to find out why this is, and what we can do to eliminate these overwhelming feelings in students. After Covid, that number has likely gotten even worse. Going through a lockdown on top of balancing school can be extremely harmful to student’s mental health even at a young age. Analyzing this data and connecting it to other articles from mental health organizations in the US or the CDC can help us get a grasp of how education affects mental health in varying countries, and what those countries are doing to lower their numbers.
+Within the school environment exist various factors, such as societal expectations, academic pressure, workload, bullying, harassment, and discrimination, which can seriously deteriorate students' mental health, resulting in depression, anxiety, and a significant decline in self-esteem. Our topic for this research project focuses the impact of school on students' mental health and what we can do to improve school grounds to promote a healthy and positive mental health.
 
+##Adelman, Howard, and Linda Taylor. “Mental Health in Schools and Public Health .” Public Health Report, June 2006, journals.sagepub.com/doi/pdf/10.1177/003335490612100312. 
 
-1. Adelman, Howard, and Linda Taylor. “Mental Health in Schools and Public Health .” Public Health Report, June 2006, journals.sagepub.com/doi/pdf/10.1177/003335490612100312. 
+##Alliance, MindSpring Mental Health. “Learn How School Affects Mental Health in High School Students.” Mindspring, 2 May 2022, www.mindspringhealth.org/resources/news/how-school-affects-mental-health-in-high-school-students#:~:text=Unfortunately%2C%20school%20itself%20can%20sometimes,how%20school%20affects%20mental%20health. 
 
-2. Alliance, MindSpring Mental Health. “Learn How School Affects Mental Health in High School Students.” Mindspring, 2 May 2022, www.mindspringhealth.org/resources/news/how-school-affects-mental-health-in-high-school-students#:~:text=Unfortunately%2C%20school%20itself%20can%20sometimes,how%20school%20affects%20mental%20health. 
-
-3. Division of Adolescent and School Health, “Mental Health.” Centers for Disease Control and Prevention, 19 Jan. 2023, www.cdc.gov/healthyyouth/mental-health/index.htm. 
+##Division of Adolescent and School Health, “Mental Health.” Centers for Disease Control and Prevention, 19 Jan. 2023, www.cdc.gov/healthyyouth/mental-health/index.htm. 
 
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source.      
+> **Where did you find the data? Please include a link to the data source.**      
 > We found this data via Kaggle.com. 
 > [Link to the site](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
 > 
-> Who collected the data?      
+> **Who collected the data?**          
 > The data was collected by Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney (2022).
 >  
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?
+> **How was the data collected or generated?** 
+> Our data was collected and generated through a study sample of 886 medical students from various academic years. The participants' empathy, encompassing cognitive, emotional, and behavioral aspects, was evaluated through self-assessment surveys and a test designed to measure their ability to recognize emotions.
+ 
+> **Why was the data collected?**.  
+  The data was collected to gain valuable insight into the impact of being a medical student on one's health and overall well-being.
+    
+>**How many observations (rows) are in your data?**            
   There are 1790 observations in our data. 
   
-> How many features (columns) are in the data? 
+> **How many features (columns) are in the data?**             
   There are 20 features in our data.
   
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
