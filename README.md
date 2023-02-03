@@ -56,8 +56,12 @@ Within the school environment exist various factors, such as societal expectatio
 >  
 > How was the data collected or generated?  
 > Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
+>How many observations (rows) are in your data?
+  There are 1790 observations in our data. 
+  
+> How many features (columns) are in the data? 
+  There are 20 features in our data.
+  
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
