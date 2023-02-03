@@ -40,7 +40,10 @@ Within the school environment exist various factors, such as societal expectatio
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
+> Where did you find the data? Please include a link to the data source 
+> We found this data via Kaggle.com. 
+> [Link to the site:](https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?resource=download)
+> 
 > Who collected the data?  
 > How was the data collected or generated?  
 > Why was the data collected?  
