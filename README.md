@@ -77,5 +77,8 @@ Implications for schools may be to create new protocols and training for faculty
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
+
+As we are discussing the topic of mental health, there is a certain stigma when is associated with the topic. It may be more prevalent in the medical community, which may discourage those who want help from seeking it and being more open about their mental health. Another challenge may be for students who don’t know that they need help. A common feeling in medical students is being burnt out. The coursework is rigorous, leading to high levels of stress due to the demanding nature of their studies. People who are students while also balancing work may also feel that they are unable to rest for the sake of their mental health. As a break may lead to feeling behind in their studies. These challenges may make it more difficult to address the mental health needs of medical students. However, by analyzing  the data we may be able to  create a supportive environment for their well-being
+
 Acknowledgements
 > Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
