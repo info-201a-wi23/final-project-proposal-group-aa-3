@@ -64,10 +64,15 @@ Within the school environment exist various factors, such as societal expectatio
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
+Ethical questions that we need to consider may be regarding privacy. When should other authorities be notified? When students are sharing this personal information regarding their mental health with a trusted individual whether that be a teacher or a school counselor there needs to be a level of privacy and trust. At the same time, if students' mental health threatens their safety or the safety of other students, precautions need to be taken and others may need to be notified. 
+Possible limitations with this data are that is based on one country's data, it would not be able to fully represent the different levels of mental health across medical schools in other countries. As education systems are structurally different in each country, it would be beneficial to see how their educational structure affects their student's mental health versus another country's structure. Another limitation is this data is solely based on medical students. Their experience would not be comparable to younger students in middle or high school. Additionally, the data collected may be biased, as medical students may be more likely to self-report certain mental health conditions than others. The data collected may be skewed and the data's accuracy may be impacted by this.
+
+
 4. Implications
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
+Implications for schools may be to create new protocols and training for faculty to be more attentive to various warning signs displayed in students. School is intended to be a safe learning space for everyone, and that means that the people involved in making policies should treat mental health as a priority. This may involve providing money for studies on the mental health of medical students, establishing guidelines for the support and resources available to them, as well as making sure that the privacy and confidentiality of their medical records are safeguarded. Possible implications for designers may be to create sites that are supportive, accessible, and user-friendly for medical students, especially when it comes to accessing resources for mental health. They can also help to design educational materials that raise awareness about the importance of mental health in the medical community. It may be difficult for those struggling to reach out, but with the assistance of policymakers and designers, they can assist in making resources more readily available. 
 
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
