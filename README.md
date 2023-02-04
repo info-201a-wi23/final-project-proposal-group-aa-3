@@ -33,11 +33,11 @@ Our project will analyze the levels of mental health of medical students in Swit
 
 Within the school environment exist various factors, such as societal expectations, academic pressure, workload, bullying, harassment, and discrimination, which can seriously deteriorate students' mental health, resulting in depression, anxiety, and a significant decline in self-esteem. Our topic for this research project focuses the impact of school on students' mental health and what we can do to improve school grounds to promote a healthy and positive mental health. This topic is one that has always been given a lot of attention but has never been resolved. Many kids to this day struggle with their mental health and the teen suicide rate is only rising. CDC has data proving that “more than 1 in 3 high school students had experienced persistent feelings of sadness or hopelessness in 2019, a 40 percent increase since 2009”. It’s important to find out why this is, and what we can do to eliminate these overwhelming feelings in students. After Covid, that number has likely gotten even worse. Going through a lockdown on top of balancing school can be extremely harmful to student’s mental health even at a young age. Analyzing this data and connecting it to other articles from mental health organizations in the US or the CDC can help us get a grasp of how education affects mental health in varying countries, and what those countries are doing to lower their numbers. 
 
-1. Adelman, Howard, and Linda Taylor. “Mental Health in Schools and Public Health .” Public Health Report, June 2006, [Link](journals.sagepub.com/doi/pdf/10.1177/003335490612100312) 
+- Adelman, Howard, and Linda Taylor. “Mental Health in Schools and Public Health .” Public Health Report, June 2006, [Link](journals.sagepub.com/doi/pdf/10.1177/003335490612100312) 
 
-2. Alliance, MindSpring Mental Health. “Learn How School Affects Mental Health in High School Students.” Mindspring, 2 May 2022, [Link](www.mindspringhealth.org/resources/news/how-school-affects-mental-health-in-high-school-students#:~:text=Unfortunately%2C%20school%20itself%20can%20sometimes,how%20school%20affects%20mental%20health)
+- Alliance, MindSpring Mental Health. “Learn How School Affects Mental Health in High School Students.” Mindspring, 2 May 2022, [Link](www.mindspringhealth.org/resources/news/how-school-affects-mental-health-in-high-school-students#:~:text=Unfortunately%2C%20school%20itself%20can%20sometimes,how%20school%20affects%20mental%20health)
 
-3. Division of Adolescent and School Health, “Mental Health.” Centers for Disease Control and Prevention, 19 Jan. 2023, [Link](www.cdc.gov/healthyyouth/mental-health/index.htm) 
+- Division of Adolescent and School Health, “Mental Health.” Centers for Disease Control and Prevention, 19 Jan. 2023, [Link](www.cdc.gov/healthyyouth/mental-health/index.htm) 
 
 
 3. The Dataset
