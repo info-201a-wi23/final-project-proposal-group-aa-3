@@ -4,24 +4,17 @@ Please complete your proposal following the outline below.
 
 ## The School Experience and its Effect on Mental Well-Being
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
 ### Tyler Pham (tylerpham25@gmail.com), Senudi Siriwardhana(ssiriw@uw.edu), Jasmine Pham(jasmine42582@gmail.com), Tony Ngo(tonyngot@gmail.com)
 
-Names of your team members and contact information (email addresses).
 ### 02-2-2023
 
 Winter 2023
 ## Abstract
 
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
-
 Our main question is how does the education system affect the mental health of students? To address this question, we will be analyzing data of Switzerland students relating to burnout, empathy, anxiety, and depression levels of medical students as a result of school. This is important to research because depression, anxiety and suicide rates in teens have been increasing over the years, and we plan to hopefully analyze the data in a way that offers a solution to decrease such rates. 
 
 ## Keywords
-
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
 
 Mental Health, Education Systems, Switzerland Students 
 
